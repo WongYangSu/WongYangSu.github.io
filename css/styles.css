@@ -192,7 +192,7 @@ h5 {
 
 .standard-button i,
 .standard-button2 i {
-    vertical-align: inherit;
+    vertical-align: baseline;
     margin-right: 8px;
     font-size: 20px;
 }
@@ -339,15 +339,7 @@ header .only-logo .navbar .navbar-header {
 /* INTRO */
 
 header .home-contents {
-    margin-top: 5%;
-}
-
-header .intro-section {
-    text-align: left;
-}
-
-header .intro-section .standard-button {
-    margin: 0;
+    margin-top: 25%;
 }
 
 header .phone-image {
@@ -736,3 +728,4 @@ footer .copyright {
     padding-top: 10px;
     margin-bottom: 50px;
 }
+
